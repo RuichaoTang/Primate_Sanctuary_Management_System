@@ -93,9 +93,6 @@ The system includes a set of JUnit 4 test cases located in the `/test` directory
 4. **Limited Reporting**: While the system provides basic reporting functionalities, it does not offer advanced analytics or reporting features.
 
 
-## Citation
-- CS5004 Lecture Notes.
-
 ## Contact
 If you have any questions or feedback, please contact:
 - Email: tang.ruic@northeastern.edu
