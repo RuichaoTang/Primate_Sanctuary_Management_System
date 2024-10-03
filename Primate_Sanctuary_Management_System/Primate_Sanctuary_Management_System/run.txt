@@ -1,0 +1,11 @@
+The output when running the Main class file:
+Print monkeys in the isolation
+[Abby, Sandy, Brian]
+Print all monkey in this sanctuary
+[Abby, Brian, Sandy]
+Monkeys in Guereza enclosure:
+[Name:Abby Sex:MALE Favourite Food:FRUITS, Name:Sandy Sex:FEMALE Favourite Food:EGGS]
+Monkeys in Howler enclosure:
+[Name:Brian Sex:MALE Favourite Food:SEEDS]
+Monkeys in Saki enclosure:
+[]
